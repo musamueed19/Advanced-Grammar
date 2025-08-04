@@ -2,9 +2,9 @@ export default {
   "chapter-01-simple-sentences": {
     title: "Chapter 1 Basic Sentence Pattern",
   },
-//   "chapter-02-noun-phrases": {
-//     title: "Chapter 2 Noun Phrase",
-//   },
+  "chapter-02-noun-phrases": {
+    title: "Chapter 2 Noun Phrase",
+  },
 //   "chapter-03-pronouns": {
 //     title: "Chapter 3 Synonyms",
 //   },

@@ -17,8 +17,8 @@ export default {
       typesetting: "article",
     },
   },
-  docs: "text",
-  appendix: "appendix",
+  docs: "Reading (Chapters)",
+  appendix: "Appendix",
   license_link: {
     title: "License: Attribution-Non-Commercial Use",
     href: "https://creativecommons.org/licenses/by-nc/4.0/",
