@@ -17,7 +17,7 @@ export default {
       typesetting: "article",
     },
   },
-  docs: "Reading (Chapters)",
+  docs: "Chapters (Reading)",
   appendix: "Appendix",
   license_link: {
     title: "License: Attribution-Non-Commercial Use",
