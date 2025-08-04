@@ -7,7 +7,7 @@
     "build": "next build && npm run postbuild",
     "start": "next start",
     "lint": "next lint",
-    "postbuild": "echo 'Running Pagefind...' && pagefind --site .next/output --output-path public/_pagefind"
+    "postbuild": "echo 'Running Pagefind...' && pagefind --site out --output-path public/_pagefind"
   },
   "dependencies": {
     "next": "15.4.5",
