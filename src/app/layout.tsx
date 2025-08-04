@@ -98,7 +98,7 @@ export default async function RootLayout({ children }: PropsWithChildren) {
             labels: "feedback",
           }}
           docsRepositoryBase="https://github.com/musamueed19/advanced-grammar/edit/main"
-          sidebar={{ defaultMenuCollapseLevel: 1 }}
+          sidebar={{ defaultMenuCollapseLevel: 2 }}
           toc={{
             title: "Page Navigation",
             backToTop: "Back to top",
