@@ -1,7 +1,7 @@
-# Xuan Yuanyou Advanced Grammar - [Read online](https://advanced-grammar.vercel.app/)
+# Xuan Yuanyou Advanced Grammar - [Read online](https://xuangrammar.vercel.app/)
 
 <div align="center">
-<a href="https://github.com/liby/advanced-grammar">
+<a href="https://github.com/musamueed19/advanced-grammar">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa0CX1P3oEf-a7vYf6BPLac5-xrkbC_bAAng&s" alt="Cover">
 </a>
 </div>
@@ -11,11 +11,11 @@
 
 - When browsing the "Xuan Yuanyou Advanced Grammar" [Online Project] (https://grammar.codeyu.com/) produced by [codeyu](https://github.com/codeyu), I noticed that the page layout may appear in some cases not very coordinated, and the content is mainly concentrated on the left half of the screen.At the same time, I found that there is [many user feedback] in the issues list (https://github.com/codeyu/EnglishGrammarBook/issues?q=%E5%A4%A7%E9%99%86), hoping to have a version that is more in line with the user's reading habits in Simplified.
 
-- Inspired by this project, I made [First Edition] (https://advanced-grammar.vercel.app/) based on my personal style preferences, and adjusted the typesetting and verbal habits in the original project, converting many words from Taiwan into expressions that are more in line with the habits of the mainland. At the same time, I also standardized the problem of mixing punctuation in Chinese and English.
+- Inspired by this project, I made [First Edition] (https://xuangrammar.vercel.app/) based on my personal style preferences, and adjusted the typesetting and verbal habits in the original project, converting many words from Taiwan into expressions that are more in line with the habits of the mainland. At the same time, I also standardized the problem of mixing punctuation in Chinese and English.
 
 - This project is built using [Nextra](https://nextra.site/).
 
-- If you encounter any errors or problems, please feel free to submit them in the [issues](https://github.com/liby/advanced-grammar/issues/) area.
+- If you encounter any errors or problems, please feel free to submit them in the [issues](https://github.com/musamueed19/advanced-grammar/issues/) area.
 
 ## Author Profile
 
