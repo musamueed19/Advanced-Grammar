@@ -47,6 +47,14 @@ const footer = (
         CC BY-NC 4.0
       </a>
       <span> {new Date().getFullYear()} © Sen Yuan You</span>
+      <span
+        style={{
+          fontWeight: "bold",
+          color: "#ddd",
+        }}
+      >
+        . Re-developed by Muhammad Musa Mueed
+      </span>
     </div>
   </Footer>
 );
@@ -90,7 +98,7 @@ export default async function RootLayout({ children }: PropsWithChildren) {
             labels: "feedback",
           }}
           docsRepositoryBase="https://github.com/musamueed19/advanced-grammar/edit/main"
-          sidebar={{ defaultMenuCollapseLevel: 2 }}
+          sidebar={{ defaultMenuCollapseLevel: 1 }}
           toc={{
             title: "Page Navigation",
             backToTop: "Back to top",

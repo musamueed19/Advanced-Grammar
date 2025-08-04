@@ -5,9 +5,9 @@ export default {
   "chapter-02-noun-phrases": {
     title: "Chapter 2 Noun Phrase",
   },
-//   "chapter-03-pronouns": {
-//     title: "Chapter 3 Synonyms",
-//   },
+  "chapter-03-pronouns": {
+    title: "Chapter 3 Synonyms",
+  },
 //   "chapter-04-adjective": {
 //     title: "Chapter 4 Adjective",
 //   },
